@@ -30,4 +30,4 @@ var concatenatedBinary = function(n) {
     }
 
     return Number(res);
-};
+}; 
