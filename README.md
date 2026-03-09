@@ -5,5 +5,7 @@
 ### 1 - Given an integer n, return the decimal value of 
 ### the binary string formed by concatenating the binary 
 ### representations of 1 to n in order, modulo ( 10^9 + 7 ).
+Source => [Link](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/solutions/7613775/efficient-binary-concatenation-using-bit-3fc1/?envType=daily-question&envId=2026-02-28)
 -------
+
 
