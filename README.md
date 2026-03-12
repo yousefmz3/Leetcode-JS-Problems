@@ -27,5 +27,10 @@
 #### the original letters exactly once. For example, "dacb" is an anagram of "abdc".
 #### Source => [Link](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/?envType=daily-question&envId=2026-02-28)
 -------
+### 4 - Reverse Linked List
+### Given the head of a singly linked list, reverse the list, and return the reversed list.
+#### Source => [Link](https://leetcode.com/problems/reverse-linked-list/description/)
+
+
 
 
