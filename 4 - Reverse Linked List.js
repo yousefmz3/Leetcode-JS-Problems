@@ -22,7 +22,5 @@ var reverseList = function(head) {
         prev = current ;
         current = next
     }
-    this.tail = this.head;
-    this.head = prev;
     return prev;
 };
