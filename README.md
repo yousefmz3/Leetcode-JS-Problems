@@ -53,3 +53,15 @@
 ### If there are less than 2k but greater than or equal to k characters,
 ### then reverse the first k characters and leave the other as original.
 #### Source => [Link](https://leetcode.com/problems/reverse-string-ii/description/)
+-------
+### 8 - Valid Palindrome
+### A phrase is a palindrome if, after converting all uppercase letters into lowercase letters 
+### and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric 
+### characters include letters and numbers.
+### Given a string s, return true if it is a palindrome, or false otherwise.
+#### Source => [Link](https://leetcode.com/problems/valid-palindrome/description/)
+-------
+### 9 - Valid Palindrome II
+### Given a string s, return true if the s can be palindrome after deleting at most one character from it.
+#### Source => [Link](https://leetcode.com/problems/valid-palindrome-ii/description/)
+-------
