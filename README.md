@@ -98,3 +98,12 @@
 
 #### Source => [Link](https://leetcode.com/problems/event-emitter/description/)
 -------
+### 13 - Two Sum 
+#### Source => [Link](https://leetcode.com/problems/two-sum/)
+-------
+### 14 - Contains Duplicate
+#### Source => [Link](https://leetcode.com/problems/contains-duplicate/submissions/1974195164/)
+-------
+### 15 - Valid Anagram
+#### Source => [Link](https://leetcode.com/problems/valid-anagram/)
+-------
