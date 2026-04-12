@@ -110,3 +110,9 @@
 ### 16 - Min Stack
 #### Source => [Link](https://leetcode.com/problems/min-stack/)
 -------
+### 17 - Min Stack
+#### Source => [Link](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+-------
+### 18 - Number of Recent Calls
+#### Source => [Link](https://leetcode.com/problems/number-of-recent-calls/)
+-------
