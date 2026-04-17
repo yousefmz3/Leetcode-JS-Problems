@@ -131,3 +131,6 @@
 ### 23 - Subsets
 #### Source => [Link](https://leetcode.com/problems/subsets/description/)
 -------
+### 24 - Permutations
+#### Source => [Link](https://leetcode.com/problems/permutations/description/)
+-------
