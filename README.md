@@ -122,3 +122,12 @@
 ### 20 - LRU Cache
 #### Source => [Link](https://leetcode.com/problems/lru-cache/)
 -------
+### 21 - Clumsy Factorial
+#### Source => [Link](https://leetcode.com/problems/clumsy-factorial/)
+-------
+### 22 - Fibonacci Number
+#### Source => [Link](https://leetcode.com/problems/fibonacci-number/description/)
+-------
+### 23 - Subsets
+#### Source => [Link](https://leetcode.com/problems/subsets/description/)
+-------
