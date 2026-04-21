@@ -134,3 +134,6 @@
 ### 24 - Permutations
 #### Source => [Link](https://leetcode.com/problems/permutations/description/)
 -------
+### 25 - PValidate Binary Search Tree
+#### Source => [Link](https://leetcode.com/problems/validate-binary-search-tree/)
+-------
