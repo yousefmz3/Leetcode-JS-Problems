@@ -137,3 +137,6 @@
 ### 25 - PValidate Binary Search Tree
 #### Source => [Link](https://leetcode.com/problems/validate-binary-search-tree/)
 -------
+### 26 - Validate Binary Search Tree
+#### Source => [Link](https://leetcode.com/problems/validate-binary-search-tree/)
+-------
