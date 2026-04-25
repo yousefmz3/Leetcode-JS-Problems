@@ -59,6 +59,6 @@ A collection of **Leetcode solutions in JavaScript** focused on improving:
 ## ⭐ Progress
 
 ```text
-Solved: 25 Problems
+Solved: 26 Problems
 Goal: 100+
 Keep Grinding 🚀
