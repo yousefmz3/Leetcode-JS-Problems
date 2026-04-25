@@ -1,7 +1,7 @@
 ﻿# 🚀 Leetcode JS Problems
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Leetcode+JavaScript+Solutions;Clean+Code+%7C+DSA+Practice;Consistency+Builds+Skill" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=28&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=Leetcode+JavaScript+Solutions;Clean+Code+%7C+DSA+Practice;Consistency+Builds+Skill" alt="Typing SVG" />
 </p>
 
 <p align="center">
