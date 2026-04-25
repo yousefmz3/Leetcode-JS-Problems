@@ -22,3 +22,18 @@ var generateParenthesis = function (n) {
   BackTrack("", 0, 0);
   return result;
 };
+
+// console.log(GenerateParenthesis(4));
+
+// num of solutions :14
+// [
+//   '(((())))', '((()()))',
+//   '((())())', '((()))()',
+//   '(()(()))', '(()()())',
+//   '(()())()', '(())(())',
+//   '(())()()', '()((()))',
+//   '()(()())', '()(())()',
+//   '()()(())', '()()()()'
+// ]
+
+// num of solutions : (1/(n+1)) * ((2n)C(n)) => Closed-form formula
