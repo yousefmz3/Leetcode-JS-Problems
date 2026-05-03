@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Problems-28-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problems-30-brightgreen?style=for-the-badge" />
 </p>
 
 ---
@@ -55,12 +55,14 @@ A collection of **Leetcode solutions in JavaScript** focused on improving:
 | 26 | Generate Parentheses| [🔗 View](https://leetcode.com/problems/generate-parentheses/description/) |
 | 27 | Number of Islands| [🔗 View](https://leetcode.com/problems/number-of-islands/description/) |
 | 28 | Clone Graph| [🔗 View](https://leetcode.com/problems/clone-graph/description/) |
+| 29 | Course Schedule| [🔗 View](https://leetcode.com/problems/course-schedule/description/) |
+| 30 | Graph Valid Tree| [🔗 View](https://leetcode.com/problems/graph-valid-tree/description/) |
 
 ---
 
 ## ⭐ Progress
 
 ```text
-Solved: 28 Problems
+Solved: 30 Problems
 Goal: 100+
 Keep Grinding 🚀
